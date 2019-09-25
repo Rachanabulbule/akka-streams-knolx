@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/akka-project/src/main/scala/AkkaStream.scala:19:24: Reference to uninitialized value sink[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val flow = source to sink[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
